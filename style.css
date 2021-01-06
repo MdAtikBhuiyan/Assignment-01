@@ -135,6 +135,7 @@ img.download-icon {
 }
 .single-work-box{
     padding:25px;
+    height: 320px;
     background:white;
     border-radius: 30px;
     box-shadow: 3px 4px 20px 4px rgb(0 0 0 / 0.35);
