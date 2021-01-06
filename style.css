@@ -222,6 +222,8 @@ img.download-icon {
 
 .work-inquiry{
     margin: 50px 0 100px;
+    background: #F8F9FC;
+    padding: 100px 0 100px;
 }
 .bg-image{
     background: url("images/bg.png");
@@ -252,7 +254,7 @@ img.download-icon {
 }
 .connect-area{
     text-align: center;
-    margin-bottom: 80px;;
+    margin: 80px 0;
 }
 .connect-area h4{
     text-align: center;
