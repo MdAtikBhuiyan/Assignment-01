@@ -211,6 +211,7 @@ img.download-icon {
 .single-service-box{
     padding: 25px;
     transition: .5s;
+    height: 300px;
 }
 .single-service-box:hover{
     background: #e4e8f3;
